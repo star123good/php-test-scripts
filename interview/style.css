@@ -1,0 +1,29 @@
+.img-container{
+    position:relative;
+    display:inline-block;
+}
+.img-container .overlay{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+.custom-slider {
+    margin-top: 40px;
+}
+.custom-nav-tab {
+    background-color: #414f6b;
+}
+.custom-nav-tab li.nav-item a{
+    color: #b0b4be;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.custom-nav-tab li.nav-item a.active{
+    color: #414f6b;
+}
+h2 {
+    font-size: 22px !important;
+}
