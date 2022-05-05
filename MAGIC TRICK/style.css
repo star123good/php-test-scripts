@@ -1,0 +1,25 @@
+h1{
+    font-family: Roboto;
+    text-align: center;
+    font-size: 100px;
+}
+
+div{
+    font-family: roboto;
+    text-align: center;
+    font-size: 30px;
+}
+
+button {
+  border-radius: 30px;
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 20px;
+  background: mediumvioletred;
+  padding: 10px 20px 10px 20px;
+}
+
+body {
+    background-color: papayawhip;
+}
+
